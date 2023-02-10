@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.items {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+.del-button {
+  background-color: transparent;
+  border: none;
+}
+.del-image {
+  height: 12px;
+  width: 12px;
+}
+
+.para-tran-2 {
+  margin-left: 15px;
+}
+.para-tran-3 {
+  margin-left: 15px;
+  margin-right: 10px;
+}
